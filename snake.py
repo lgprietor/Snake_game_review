@@ -18,6 +18,7 @@ class Snake(t.Turtle):
             new_turtle.shape("square")
             new_turtle.color("white")
             new_turtle.penup()
+            new_turtle.speed("slowest")
             new_turtle.goto(x=-20*i, y=0)
             self.snake_parts.append(new_turtle)
 
@@ -34,13 +35,28 @@ class Snake(t.Turtle):
             self.snake_parts[i].goto(self.snake_positions[i-1])
 
         self.snake_head.forward(20)
-        self.snake_head.setheading(90)
 
         self.snake_positions = []
 
-    # def move_right(self):
+    def move_up(self):
 
+        if self.snake_head.heading() != 270:
+            self.snake_head.setheading(90)
 
+    def move_down(self):
+
+        if self.snake_head.heading() != 90:
+            self.snake_head.setheading(270)
+
+    def move_right(self):
+
+        if self.snake_head.heading() != 180:
+            self.snake_head.setheading(0)
+
+    def move_left(self):
+
+        if self.snake_head.heading() != 0:
+            self.snake_head.setheading(180)
 
 
 
