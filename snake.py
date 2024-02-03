@@ -28,7 +28,7 @@ class Snake(t.Turtle):
             position = part.position()
             self.snake_positions.append(position)
 
-        print(self.snake_positions)
+        # print(self.snake_positions)
 
         for i in range(1,len(self.snake_parts)):
 
