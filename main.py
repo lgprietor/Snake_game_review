@@ -1,54 +1,46 @@
 import turtle as t
+import time
 from snake import Snake
 from food import Food
-import time
+from scoreboard import Scoreboard
 
 screen = t.Screen()
+screen.setup(width= 600, height= 600)
 screen.bgcolor("black")
-screen.screensize(canvwidth=600,canvheight=600)
 screen.listen()
+screen.tracer(0)
 
 snake = Snake()
 food = Food()
-print(food.position())
+scoreboard = Scoreboard()
 
-screen.onkey(snake.move_right, "Right")
-screen.onkey(snake.move_left, "Left")
-screen.onkey(snake.move_up, "Up")
-screen.onkey(snake.move_down, "Down")
+screen.onkey(snake.move_up,"Up")
+screen.onkey(snake.move_down,"Down")
+screen.onkey(snake.move_left,"Left")
+screen.onkey(snake.move_right,"Right")
 
 game_is_on = True
 
 while game_is_on:
+
     time.sleep(0.1)
+    screen.update()
+
     snake.move_snake()
 
-    # Detecting collisions with the food:
+    # Detecting collisions with food:
 
-    # food_x = food.xcor()
-    # food_y = food.ycor()
+    if snake.snake_head.distance(food) < 15:
+        food.refresh_location()
+        scoreboard.update_score()
 
-    # print(snake.snake_head.distance()
+    # Detecting collisions with walls:
 
-    print(food.position())
+    if (snake.snake_head.xcor() > 280 or snake.snake_head.xcor() < -280 or snake.snake_head.ycor() > 280 or
+            snake.snake_head.ycor() < -280):
 
-    print(snake.snake_head.distance(food.position()))
-
-    if snake.snake_head.distance(food.position()) < 15:
-        food.change_location()
-
-
-
-
-
-        # food.change_location()
-
-
-
-
-
-
-
+        game_is_on = False
+        scoreboard.game_over()
 
 
 
