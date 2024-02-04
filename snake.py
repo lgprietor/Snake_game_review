@@ -44,6 +44,22 @@ class Snake(t.Turtle):
 
         self.snake_positions = []
 
+    def add_part(self):
+
+        # Capturing positions:
+
+        for part in self.snake_parts:
+            position = part.position()
+            self.snake_positions.append(position)
+
+        new_part = t.Turtle()
+        new_part.color("white")
+        new_part.shape("square")
+        new_part.penup()
+        new_part.speed("fastest")
+        new_part.goto(self.snake_positions[-1])
+        self.snake_parts.append(new_part)
+
     def move_up(self):
 
         if self.snake_head.heading() != 270:
