@@ -60,6 +60,15 @@ class Snake(t.Turtle):
         new_part.goto(self.snake_positions[-1])
         self.snake_parts.append(new_part)
 
+    def reset_snake(self):
+        for i in self.snake_parts:
+            i.hideturtle()
+            i.home()
+        self.snake_parts = []
+        self.snake_positions = []
+        self.snake_body()
+        self.snake_head = self.snake_parts[0]
+
     def move_up(self):
 
         if self.snake_head.heading() != 270:

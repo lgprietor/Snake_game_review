@@ -5,7 +5,7 @@ from food import Food
 from scoreboard import Scoreboard
 
 screen = t.Screen()
-screen.setup(width= 600, height= 600)
+screen.setup(width=600, height=600)
 screen.bgcolor("black")
 screen.listen()
 screen.tracer(0)
@@ -40,8 +40,10 @@ while game_is_on:
     if (snake.snake_head.xcor() > 280 or snake.snake_head.xcor() < -280 or snake.snake_head.ycor() > 280 or
             snake.snake_head.ycor() < -280):
 
-        game_is_on = False
-        scoreboard.game_over()
+        # game_is_on = False
+        # scoreboard.game_over()
+        scoreboard.reset_board()
+        snake.reset_snake()
 
     # Detecting collisions with body:
 
@@ -49,7 +51,13 @@ while game_is_on:
 
         if snake.snake_head.distance(i) < 15:
 
-            game_is_on = False
-            scoreboard.game_over()
+            # game_is_on = False
+            # scoreboard.game_over()
+            scoreboard.reset_board()
+            snake.reset_snake()
+
+
+
+
 
 screen.exitonclick()
