@@ -1,0 +1,223 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_1_02_2024_3_46_p__m___Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_1_02_2024_3_46_p__m___Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_1_02_2024_3_46_p__m___Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_1_02_2024_3_46_p__m___Changes_.xml	(revision 8393e10c34df674db3f50d078cad9326c242af30)
++++ /dev/null	(revision 8393e10c34df674db3f50d078cad9326c242af30)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_1_02_2024_3_46_p_ m__[Changes]" date="1706820383866" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_02_2024_3_46_p_ m__[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 1/02/2024 3:46 p. m. [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_1_02_2024_3_46_p_ m__[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_1_02_2024_3_46_p_ m__[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_1_02_2024_3_46_p_ m__[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_1_02_2024_3_46_p_ m__[Changes]/shelved.patch	(revision 8393e10c34df674db3f50d078cad9326c242af30)
++++ /dev/null	(revision 8393e10c34df674db3f50d078cad9326c242af30)
+@@ -1,105 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1c26ec43-da8f-45ab-9e89-ddda6d2756ce\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/main.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/snake.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 7\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2bliKyrONO5KgFYgkH4RpOi88uI\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.main.executor\": \"Run\",\r\n    \"Python.snake.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1c26ec43-da8f-45ab-9e89-ddda6d2756ce\" name=\"Changes\" comment=\"\" />\r\n      <created>1706796006080</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1706796006080</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/snake.py</url>\r\n          <line>12</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision c42dbfa490de5ea64898fc2f7089e715d179c9fc)
+-+++ b/.idea/workspace.xml	(date 1706820332023)
+-@@ -4,12 +4,7 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="1c26ec43-da8f-45ab-9e89-ddda6d2756ce" name="Changes" comment="">
+--      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--    </list>
+-+    <list default="true" id="1c26ec43-da8f-45ab-9e89-ddda6d2756ce" name="Changes" comment="Initial commit" />
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -18,24 +13,24 @@
+-   <component name="Git.Settings">
+-     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-   </component>
+--  <component name="ProjectColorInfo"><![CDATA[{
+--  "associatedIndex": 7
+--}]]></component>
+-+  <component name="ProjectColorInfo">{
+-+  &quot;associatedIndex&quot;: 7
+-+}</component>
+-   <component name="ProjectId" id="2bliKyrONO5KgFYgkH4RpOi88uI" />
+-   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+-   <component name="ProjectViewState">
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-   </component>
+--  <component name="PropertiesComponent"><![CDATA[{
+--  "keyToString": {
+--    "Python.main.executor": "Run",
+--    "Python.snake.executor": "Run",
+--    "RunOnceActivity.OpenProjectViewOnStart": "true",
+--    "RunOnceActivity.ShowReadmeOnStart": "true",
+--    "git-widget-placeholder": "master"
+-+  <component name="PropertiesComponent">{
+-+  &quot;keyToString&quot;: {
+-+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
+-+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+-   }
+--}]]></component>
+-+}</component>
+-   <component name="SharedIndexes">
+-     <attachedChunks>
+-       <set>
+-@@ -52,7 +47,44 @@
+-       <option name="presentableId" value="Default" />
+-       <updated>1706796006080</updated>
+-     </task>
+-+    <task id="LOCAL-00001" summary="Initial commit">
+-+      <option name="closed" value="true" />
+-+      <created>1706820235938</created>
+-+      <option name="number" value="00001" />
+-+      <option name="presentableId" value="LOCAL-00001" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1706820235938</updated>
+-+    </task>
+-+    <task id="LOCAL-00002" summary="Initial commit">
+-+      <option name="closed" value="true" />
+-+      <created>1706820300840</created>
+-+      <option name="number" value="00002" />
+-+      <option name="presentableId" value="LOCAL-00002" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1706820300840</updated>
+-+    </task>
+-+    <task id="LOCAL-00003" summary="Initial commit">
+-+      <option name="closed" value="true" />
+-+      <created>1706820312836</created>
+-+      <option name="number" value="00003" />
+-+      <option name="presentableId" value="LOCAL-00003" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1706820312836</updated>
+-+    </task>
+-+    <task id="LOCAL-00004" summary="Initial commit">
+-+      <option name="closed" value="true" />
+-+      <created>1706820323747</created>
+-+      <option name="number" value="00004" />
+-+      <option name="presentableId" value="LOCAL-00004" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1706820323747</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="5" />
+-     <servers />
+-+  </component>
+-+  <component name="VcsManagerConfiguration">
+-+    <MESSAGE value="Initial commit" />
+-+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+-   </component>
+-   <component name="XDebuggerManager">
+-     <breakpoint-manager>
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"Black\">\r\n    <option name=\"sdkName\" value=\"Python 3.12 (Snake_game_review)\" />\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"Python 3.12 (Snake_game_review)\" project-jdk-type=\"Python SDK\" />\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 8393e10c34df674db3f50d078cad9326c242af30)
++++ b/.idea/misc.xml	(date 1707194520522)
+@@ -3,5 +3,5 @@
+   <component name="Black">
+     <option name="sdkName" value="Python 3.12 (Snake_game_review)" />
+   </component>
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (Snake_game_review)" project-jdk-type="Python SDK" />
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1c26ec43-da8f-45ab-9e89-ddda6d2756ce\" name=\"Changes\" comment=\"Initial commit\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/Snake_game_review.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/Snake_game_review.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/main.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/main.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/snake.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/snake.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"lgprietor\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"6e1291e5-f1c7-4601-82aa-b5f7235d6e90\" />\r\n        <option name=\"url\" value=\"https://github.com/lgprietor/Snake_game_review\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 7\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2bliKyrONO5KgFYgkH4RpOi88uI\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Python.main.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.snake.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1c26ec43-da8f-45ab-9e89-ddda6d2756ce\" name=\"Changes\" comment=\"\" />\r\n      <created>1706796006080</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1706796006080</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706820235938</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706820235938</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706820300840</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706820300840</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706820312836</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706820312836</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706820323747</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706820323747</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706888565388</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706888565388</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706888577309</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706888577309</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706974167047</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706974167047</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706974192003</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706974192003</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706975317269</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706975317269</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706980155617</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706980155617</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706980167673</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706980167673</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706980180020</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706980180020</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"Merge remote-tracking branch 'origin/master'\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706980218672</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706980218672</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"Merge remote-tracking branch 'origin/master'\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1707059595328</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1707059595328</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Merge remote-tracking branch 'origin/master'\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1707064124332</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1707064124332</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"Merge remote-tracking branch 'origin/master'\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1707064135303</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1707064135303</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"Merge remote-tracking branch 'origin/master'\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1707064930374</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1707064930374</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"Merge remote-tracking branch 'origin/master'\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1707106910893</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1707106910893</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"19\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Initial commit\" />\r\n    <MESSAGE value=\"Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;food.py&#10;#&#9;main.py\" />\r\n    <MESSAGE value=\"Merge remote-tracking branch 'origin/master'\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Merge remote-tracking branch 'origin/master'\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/snake.py</url>\r\n          <line>36</line>\r\n          <option name=\"timeStamp\" value=\"6\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 8393e10c34df674db3f50d078cad9326c242af30)
++++ b/.idea/workspace.xml	(date 1707194581705)
+@@ -4,12 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="1c26ec43-da8f-45ab-9e89-ddda6d2756ce" name="Changes" comment="Initial commit">
++    <list default="true" id="1c26ec43-da8f-45ab-9e89-ddda6d2756ce" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+       <change beforePath="$PROJECT_DIR$/.idea/Snake_game_review.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Snake_game_review.iml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -18,13 +16,14 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN",
+-    "assignee": "lgprietor"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;lgprietor&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="GithubPullRequestsUISettings">
+     <option name="selectedUrlAndAccountId">
+       <UrlAndAccount>
+@@ -213,7 +212,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1707106910893</updated>
+     </task>
+-    <option name="localTasksCounter" value="19" />
++    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/master'">
++      <option name="closed" value="true" />
++      <created>1707194495905</created>
++      <option name="number" value="00019" />
++      <option name="presentableId" value="LOCAL-00019" />
++      <option name="project" value="LOCAL" />
++      <updated>1707194495906</updated>
++    </task>
++    <option name="localTasksCounter" value="20" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+Index: .idea/Snake_game_review.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <excludeFolder url=\"file://$MODULE_DIR$/.venv\" />\r\n    </content>\r\n    <orderEntry type=\"jdk\" jdkName=\"Python 3.12 (Snake_game_review)\" jdkType=\"Python SDK\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/Snake_game_review.iml b/.idea/Snake_game_review.iml
+--- a/.idea/Snake_game_review.iml	(revision 8393e10c34df674db3f50d078cad9326c242af30)
++++ b/.idea/Snake_game_review.iml	(date 1707194520511)
+@@ -4,7 +4,7 @@
+     <content url="file://$MODULE_DIR$">
+       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+     </content>
+-    <orderEntry type="jdk" jdkName="Python 3.12 (Snake_game_review)" jdkType="Python SDK" />
++    <orderEntry type="jdk" jdkName="Python 3.11" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
